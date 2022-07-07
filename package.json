@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "1.0.0",
+  "description": "fetch a webpage and write it to a file",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-DUYVESTYN/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-DUYVESTYN/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/A-DUYVESTYN/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
